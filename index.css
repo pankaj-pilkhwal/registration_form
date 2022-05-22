@@ -1,0 +1,12 @@
+.registrationForm {
+    width: 80%;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px auto;
+    border-radius: 15px;
+    background-color: rgb(211, 233, 252);
+}
+
+body {
+    background-color: aqua;
+}
